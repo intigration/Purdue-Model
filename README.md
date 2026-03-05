@@ -13,6 +13,7 @@ Traditional segmentation fails against East-West threats — attacks that spread
 **This is where Lean Automation is different.**
 
 We don't just design Purdue-compliant architectures. We automate their enforcement — and we embed AI natively into the industrial environment as an active defense layer. Our AI learns the behavioral baseline of every controller, HMI, and sensor on your floor. When anomalous traffic appears, it is flagged in milliseconds — not after a human reviews a log. This is adaptive intelligence, not rules-based alerting.
+<img width="2576" height="2071" alt="02_scenario_dashboard" src="https://github.com/user-attachments/assets/005a5b8f-eaae-4106-be81-7906e8c8d442" />
 
 Our enforcement capabilities span five dimensions: automated zone enforcement, DMZ integrity monitoring, workcell-level micro-segmentation, continuous asset discovery, and Zero Trust integration as you evolve toward Purdue 2.0.
 
