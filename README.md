@@ -4,6 +4,7 @@
 The SloppyLemming campaign targeted nuclear oversight bodies, defense logistics, and energy utilities across South Asia using a backdoor — BurrowShell — masquerading as routine Windows Update traffic. In a flat network, that backdoor pivots from your enterprise systems to your production floor in minutes.
 
 The Purdue Model exists precisely to prevent this. By segmenting your environment into distinct zones — Enterprise, DMZ, Industrial, and Process — a properly architected network stops lateral movement before it reaches your PLCs and safety systems.
+<img width="980" height="900" alt="model" src="https://github.com/user-attachments/assets/f317f3a3-d919-43aa-b6a7-9719bda4b10e" />
 
 **But architecture on paper is not defense in practice.**
 
