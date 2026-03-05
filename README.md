@@ -1,4 +1,3 @@
----
 
 **🏭 A State-Aligned Threat Group Just Breached Energy Utilities Across South Asia. For Industrial Leaders, This Is Not an IT Problem — It Is a Business Continuity Problem.**
 
@@ -19,4 +18,4 @@ Our enforcement capabilities span five dimensions: automated zone enforcement, D
 The organizations that survive state-aligned threats will be those whose segmentation is not just designed — but automated, enforced, and AI-driven.
 
 
----
+
